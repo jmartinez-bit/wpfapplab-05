@@ -53,5 +53,8 @@
       <Name>Entity</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="semana05.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
